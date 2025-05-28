@@ -1,1 +1,3 @@
 # Curso TMW Git & GitHub 2025
+
+Este curso introdutório aborda os fundamentos do Git, sistema de controle de versão distribuído, e do GitHub, plataforma de hospedagem e colaboração em projetos com Git. O conteúdo é focado em ensinar comandos essenciais como git init, git add, git commit, git push, git pull e git clone, além de boas práticas de versionamento. O aluno aprenderá a criar repositórios locais e remotos, trabalhar com branches, resolver conflitos e colaborar em projetos com pull requests. Ideal para quem deseja iniciar no desenvolvimento com controle de versões eficiente e colaboração em equipe.
