@@ -1,0 +1,17 @@
+Começando o versonamento
+
+git init . - começando o versionamento dos arquivos.
+
+git status - 
+
+git add -
+git add. - adiciona tudo dessa pasta 
+
+git commit -m  - comitando
+
+git config --global user.email"Seu Email"
+
+git config --global user.name"maike-honorato"
+
+git config --global user.name - validando as  informações 
+git log  - 

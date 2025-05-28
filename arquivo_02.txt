@@ -1,3 +1,10 @@
-arquivo033
+Começando o versonamento
 
-mais uma linha nesse aquivo
+git init . - começando o versionamento dos arquivos.
+
+git status - 
+
+git add -
+git add. - adiciona tudo dessa pasta 
+
+git commit -m  - comitando

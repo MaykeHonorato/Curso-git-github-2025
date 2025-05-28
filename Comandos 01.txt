@@ -1,0 +1,15 @@
+ls - Lista os arquivos 
+cd - Muda de  diretório
+
+pwd - para saber qual diretório estou
+
+ls- a = lista arquivos ocultos
+
+mkdir- criando pasta nova
+
+cat - exibe conteúdo do arquivo
+
+rm -rf .git/ - remove a pasta 
+
+rm - remove arquivo ou direto
+----------------------------------

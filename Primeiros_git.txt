@@ -1,5 +1,39 @@
-mayke honorato mazoni
+ls - Lista os arquivos 
+cd - Muda de  diretório
 
+pwd - para saber qual diretório estou
 
-FODA SEEEEEEEEEEEEEEEOOOOOOOOOOOOOOOOOO
+ls- a = lista arquivos ocultos
 
+mkdir- criando pasta nova
+
+cat - exibe conteúdo do arquivo
+
+rm -rf .git/ - remove a pasta 
+
+rm - remove arquivo ou direto
+----------------------------------------------------------------------
+Começando o versonamento
+
+git init . - começando o versionamento dos arquivos.
+
+git status - 
+
+git add -
+git add. - adiciona tudo dessa pasta 
+
+git commit -m  - comitando
+
+git config --global user.email"Seu Email"
+
+git config --global user.name"maike-honorato"
+
+git config --global user.name - validando as  informações 
+git log  - 
+
+----------------------------------------------------
+Editor de texto 
+
+nano nome do arquivo.txt - criando arquivo pelo git
+ctrl o - salva
+ctrl x - sair 

@@ -1,10 +1,5 @@
-qqq
-asd
-7
-7
-7
-asd
+Editor de texto 
 
-
-
-FODASEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+nano nome do arquivo.txt - criando arquivo pelo git
+ctrl o - salva
+ctrl x - sair 
